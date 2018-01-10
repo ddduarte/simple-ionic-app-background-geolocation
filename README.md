@@ -1,2 +1,1 @@
-# simple-ionic-app-background-geolocation
-Simple app that explain how to use geolocation and background with ionic.
+### :point_right: This starter repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/blank) repo! :point_left:
